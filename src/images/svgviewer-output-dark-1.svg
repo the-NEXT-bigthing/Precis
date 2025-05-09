@@ -1,0 +1,5 @@
+<svg fill="#000000" width="146px" height="24px" id="note" data-name="Flat Color" xmlns="http://www.w3.org/2000/svg" class="icon flat-color">
+  <rect id="primary" x="4" y="3" width="16" height="19" rx="2" style="fill: rgb(0, 0, 0);"></rect>
+  <rect id="secondary" x="8" y="2" width="8" height="4" rx="1" style="fill: rgb(237, 107, 7);"></rect>
+  <text x="25" y="20" fill="#000000" font-size="28" font-weight="bold" font-family="Inter" style="fill: rgb(255, 255, 255);">precis</text>
+</svg>
